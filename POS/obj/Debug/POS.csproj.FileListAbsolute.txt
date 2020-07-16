@@ -1,0 +1,17 @@
+C:\POS\POS\POS\bin\Debug\POS.exe.config
+C:\POS\POS\POS\bin\Debug\POS.exe
+C:\POS\POS\POS\bin\Debug\POS.pdb
+C:\POS\POS\POS\bin\Debug\Newtonsoft.Json.dll
+C:\POS\POS\POS\bin\Debug\RestSharp.dll
+C:\POS\POS\POS\bin\Debug\Newtonsoft.Json.xml
+C:\POS\POS\POS\bin\Debug\RestSharp.xml
+C:\POS\POS\POS\obj\Debug\POS.Calc.resources
+C:\POS\POS\POS\obj\Debug\POS.POS.resources
+C:\POS\POS\POS\obj\Debug\POS.POSForm.resources
+C:\POS\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\POS\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\POS\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\POS\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\POS\POS\POS\obj\Debug\POS.exe
+C:\POS\POS\POS\obj\Debug\POS.pdb
+C:\POS\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
